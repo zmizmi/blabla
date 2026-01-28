@@ -1,0 +1,15 @@
+h1
+{
+    color:blue
+}
+
+
+.important{
+    font-size: larger;
+}
+
+
+.main-image {
+  width: auto;
+  max-height: 100%;
+}
